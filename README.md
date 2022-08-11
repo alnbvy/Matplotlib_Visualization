@@ -1,5 +1,4 @@
-# Machine learning prediction of the price of houses
-Extremely simple project just for reviewing machine learning basics and fun!
+# Data visulization with Matplotlib
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -10,18 +9,16 @@ Extremely simple project just for reviewing machine learning basics and fun!
 
 
 ## General Information
-- The goal of the project is to predict the price of houses
-- The models are very simple: 1) linear regression, polynomial fit and Ridge
-- The project contains 5 steps: 1) introduction 2) data wrangling 3) exploratory data analysis 4) model development and 4) Refinement
+- My attempts at using Matplotlib to learn data visulization with Python.
+- Contains simple plots like: line plot, pie plot, box chart, bubble plot, area plot, ...
 
 ## Results
 
-![Result](regplot.png)
-![Result](boxplot.png)
+![Result](bubble.png)
+![Result](pie.png)
 
 ## Technologies Used
 - Python
-- Scikit learn
 - Pandas
 - Matplotlib
 
